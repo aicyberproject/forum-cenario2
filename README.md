@@ -17,3 +17,5 @@ Ambiente ideal para:
 
 ## 🌐 Acesso à simulação
 Quando publicado no GitHub Pages:
+## ⚠️ Aviso
+Este material é fictício e criado exclusivamente para treinamento educacional.
